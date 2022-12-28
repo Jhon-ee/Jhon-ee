@@ -36,7 +36,7 @@ I'm studying Electrical Engineering at the Federal Institute of Science and Tech
                 
 ## :star: Statistics on GitHub
 
-<div>
+<div align="left">
   <a href="https://github.com/Jhon-ee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhon-ee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon-ee&layout=compact&langs_count=7&theme=onedark"/>
@@ -44,7 +44,7 @@ I'm studying Electrical Engineering at the Federal Institute of Science and Tech
 
 ## Views Counter
 
-<img  src="https://profile-counter.glitch.me/Jhon-ee/count.svg" />
+<img src="https://profile-counter.glitch.me/Jhon-ee/count.svg" />
 
 <br>
 
