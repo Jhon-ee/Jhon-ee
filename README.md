@@ -15,7 +15,7 @@ data()
 I'm studying Electrical Engineering at the Federal Institute of Science and Technology of Bahia in the city of Vitória da Conquista. I am a member of the automation and robotics research and innovation group (GIPAR). At GIPAR I am participating in the development of an autonomous navigation system for a wheelchair.
 
 - :computer: I am currently working on a location system using an indoor GPS to aid autonomous wheelchair navigation using Ubuntu, ROS and Python.
-- :books: I'm learning HTML, CSS and JavaScript.
+- :books: I'm learning HTML, CSS and Python.
 - 📫 How to reach me: jonasee2020@gmail.com
 
 ## :bulb: My Skills
